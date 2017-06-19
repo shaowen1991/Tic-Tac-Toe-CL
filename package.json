@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-toe-cl",
+  "version": "1.0.0",
+  "description": "Command Line version of Tic Tac Toe",
+  "main": "index.js",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaowen1991/Tic-Tac-Toe-CL.git"
+  },
+  "author": "Shaowen Ren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaowen1991/Tic-Tac-Toe-CL/issues"
+  },
+  "homepage": "https://github.com/shaowen1991/Tic-Tac-Toe-CL#readme"
+}
