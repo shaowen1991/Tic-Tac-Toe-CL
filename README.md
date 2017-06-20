@@ -1,5 +1,5 @@
 TIC TAC TOE Commandline
 
-#$ npm install
+$ npm install
 
-#$ ./index.js new
+$ ./index.js new
