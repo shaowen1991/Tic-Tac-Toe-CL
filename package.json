@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cli": "^1.0.1",
+    "cli-prompt": "^0.6.0",
     "node": "^0.0.0"
   },
   "devDependencies": {},
